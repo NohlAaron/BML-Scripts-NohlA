@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../240723-155823-esp32cam"
+		},
+		{
+			"name": "241008-121042-esp32cam",
+			"path": "../../241008-121042-esp32cam"
+		},
+		{
+			"name": "IptoIpCam",
+			"path": ".."
+		},
+		{
+			"name": "STACLOOP1",
+			"path": "../../STACLOOP1"
+		},
+		{
+			"name": "STMARDU1",
+			"path": "../../STMARDU1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sstream": "cpp"
+		}
+	}
+}
